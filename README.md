@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luan 
 
-Um desenvolvedor em desenvolvimento e em constante evolução.
+Um desenvolvedor em desenvolvimento e constante evolução.
 
 <br>
 
